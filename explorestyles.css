@@ -1,12 +1,12 @@
 :root {
-   --theme-color: pink;
-   --theme-dark-color: white;
-   --primary-font-color: #fa5456;
-   --link-font-color: white;
+   --theme-color: white;
+   --theme-dark-color: black;
+   --primary-font-color: white;
+   --link-font-color: black;
 }
 
 body {
-   font-family: 'Courier New';
+   font-family: 'Arial';
    color: var(--primary-font-color);
    background-color: white;
    padding: 10px;
